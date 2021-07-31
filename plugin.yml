@@ -1,0 +1,26 @@
+name: CrashEssentials
+main: com.romanio0089.crashessentials.Main
+version: 1.0.0
+commands:
+     realcrash:
+        description: Crashes Minecraft client of the specified player.
+        usage: /<command>
+     crashserver:
+        description: Crashes the server (might not work on every server).
+        usage: /<command>
+     closedkick:
+        description: Kicks specified player from server with Server Closed message.
+        usage: /<command>
+permissions:
+     crashessentials.*:
+        description: Permission for all CrashEssentials commands.
+        children:
+           crashessentials.realcrash: true
+           crashessentials.crashserver: true
+           crashessentials.closedkick: true
+     crashessentials.realcrash:
+        description: Permission to use realcrash.
+     crashessentials.crashserver:
+        description: Permission to use crashserver.
+     crashessentials.closedkick:
+        description: Permission to use closedkick.
