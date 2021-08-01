@@ -1,5 +1,5 @@
 # CrashEssentials
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/Romanio0089/CrashEssentials/blob/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/Romanio0089/CrashEssentials/blob/main/LICENSE)
 
 ## About
 
