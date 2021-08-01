@@ -1,6 +1,6 @@
 # CrashEssentials
 [![Release](https://img.shields.io/badge/release-SNAPSHOT_B1-informational)](https://github.com/Romanio0089/CrashEssentials/releases)
-[![Downloads](https://img.shields.io/github/downloads/Romanio0089/CrashEssentials/total.svg)](https://github.com/Romanio0089/CrashEssentials/releases)
+[![Downloads](https://img.shields.io/github/downloads/Romanio0089/CrashEssentials/total)](https://github.com/Romanio0089/CrashEssentials/releases)
 [![License](https://img.shields.io/badge/license-GNU_GPLv3-brightgreen.svg)](https://github.com/Romanio0089/CrashEssentials/blob/main/LICENSE)
 
 ## About
