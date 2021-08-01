@@ -3,24 +3,18 @@ main: com.romanio0089.crashessentials.Main
 version: 1.0.0
 commands:
      realcrash:
-        description: Crashes Minecraft client of the specified player.
-        usage: /<command>
-     crashserver:
-        description: Crashes the server (might not work on every server).
-        usage: /<command>
-     closedkick:
-        description: Kicks specified player from server with Server Closed message.
-        usage: /<command>
+        description: Crashes specified player Minecraft client (95% success rate).
+        usage: /<command> <player>
+     fakejavaerror:
+        description: Kicks specified player from server with a fake Java exception that looks real.
+        usage: /<command> <player> <seconds>
 permissions:
      crashessentials.*:
         description: Permission for all CrashEssentials commands.
         children:
            crashessentials.realcrash: true
-           crashessentials.crashserver: true
-           crashessentials.closedkick: true
+           crashessentials.fakejavaerror: true
      crashessentials.realcrash:
         description: Permission to use realcrash.
-     crashessentials.crashserver:
-        description: Permission to use crashserver.
-     crashessentials.closedkick:
-        description: Permission to use closedkick.
+     crashessentials.fakejavaerror:
+        description: Permission to use fakejavaerror.
