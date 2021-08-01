@@ -1,4 +1,5 @@
 # CrashEssentials
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/Romanio0089/CrashEssentials/blob/master/LICENSE)
 
 ## About
 
@@ -12,11 +13,15 @@ Compatibility: 1.7.X up to 1.17.X
 
 /realcrash - Crashes specified player Minecraft client (95% success rate).
 
+/fakejavaerror - Kicks specified player from server with a fake Java exception that looks real.
+
 More commands coming soon...
 
 ## Permissions
 
 crashessentials.realcrash
+
+crashessentials.fakejavaerror
 
 ## Credits
 
