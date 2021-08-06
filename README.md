@@ -27,7 +27,7 @@ crashessentials.fakejavaerror
 
 ## Credits
 
-Distributed by Vir0z4 Network.
+Distributed under Vir0z4 Network.
 
 Made by Vir0z4 Network members Romanio0089 and CactusLapis.
 
